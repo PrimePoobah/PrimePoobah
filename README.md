@@ -1,15 +1,15 @@
 # PrimePoobah's Repository
 
-Welcome to PrimePoobah's GitHub repository! This repository contains valuable resources and guides on various topics, including increasing disk space in Ubuntu Linux running in Proxmox virtualization and improving GPT prompts.
+Welcome to PrimePoobah's GitHub repository! This repository contains valuable resources and guides on various topics, including increasing disk space in Ubuntu Linux running in Proxmox virtualization and improving GPT prompts, script for Plex to export information about your media library to an excel spreadsheet, and home automation/HomeAssistant.
 
 ## Introduction
 
-This repository is a collection of guides and tips curated by PrimePoobah. Whether you're looking to manage disk space in a virtualized environment or enhance your GPT prompt crafting skills, you'll find useful information here.
+This repository is a collection of guides and tips curated by PrimePoobah. Whether you're looking to manage disk space in a virtualized environment or enhance your GPT prompt crafting skills, export info from Plex, or do cool things with HomeAssistant you'll find useful information here.
 - 🐝 I know my profile picture looks like Bumble Bee. Yes, I know that Bumble Bee is not a Prime, but it looks awesome!
 
 ## How to Increase Disk Space in Ubuntu Linux on Proxmox
 
-Follow this detailed guide to increase disk space in your Ubuntu Linux virtual machine running on Proxmox
+Follow this detailed guide to increase disk space in your Ubuntu Linux virtual machine running on Proxmox.
 
 ## Collection of Tips to Improve GPT Prompts
 
