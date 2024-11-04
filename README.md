@@ -22,6 +22,12 @@ Enhance your GPT prompt crafting skills with these tips:
 
 Explore the full collection of tips to get the most out of your GPT prompts.
 
+## Plex
+This repository provides Python scripts designed to export content from a Plex Media Server into Excel files. The exporter allows users to retrieve detailed information about movies, TV shows, or both, complete with color-coded status indicators for efficient organization and analysis.
+
+## HomeAssistant
+Nothing here yet, but there might be... someday
+
 ## Contributing
 
 We welcome contributions! If you have suggestions or improvements, please open an issue or submit a pull request.
